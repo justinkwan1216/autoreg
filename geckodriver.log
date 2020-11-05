@@ -1,0 +1,155 @@
+1600329326738	geckodriver	INFO	Listening on 127.0.0.1:51574
+1600329329639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofileA9Ld4p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329332644	Marionette	INFO	Listening on port 51597
+1600329332750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329352937	Marionette	INFO	Stopped listening on port 51597
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600329359483	geckodriver	INFO	Listening on 127.0.0.1:51653
+1600329362411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofileK9T8Gk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329364873	Marionette	INFO	Listening on port 51662
+1600329365029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329395316	Marionette	INFO	Stopped listening on port 51662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600329396288	geckodriver	INFO	Listening on 127.0.0.1:51718
+1600329399214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofileIhWXrw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329401799	Marionette	INFO	Listening on port 51727
+1600329401843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329501097	Marionette	INFO	Stopped listening on port 51727
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600329515189	geckodriver	INFO	Listening on 127.0.0.1:51873
+1600329518100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofile8PskVf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329520472	Marionette	INFO	Listening on port 51881
+1600329520716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329533249	Marionette	INFO	Stopped listening on port 51881
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600329559934	geckodriver	INFO	Listening on 127.0.0.1:51937
+1600329562815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofileCLxi8G"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329565383	Marionette	INFO	Listening on port 51946
+1600329565433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329584838	Marionette	INFO	Stopped listening on port 51946
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600329591364	geckodriver	INFO	Listening on 127.0.0.1:51999
+1600329594300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofileP1JbAP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329596771	Marionette	INFO	Listening on port 52008
+1600329596908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329623239	Marionette	INFO	Stopped listening on port 52008
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600329635154	geckodriver	INFO	Listening on 127.0.0.1:52086
+1600329638063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofileWfmQ83"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329640526	Marionette	INFO	Listening on port 52096
+1600329640693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329770075	Marionette	INFO	Stopped listening on port 52096
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600329799645	geckodriver	INFO	Listening on 127.0.0.1:52200
+1600329802578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofileyn1OGC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329805322	Marionette	INFO	Listening on port 52209
+1600329805689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329868741	Marionette	INFO	Stopped listening on port 52209
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600329875622	geckodriver	INFO	Listening on 127.0.0.1:52279
+1600329878489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jk\\AppData\\Local\\Temp\\rust_mozprofilel1l5GC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600329881201	Marionette	INFO	Listening on port 52289
+1600329881600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript error: https://www38.polyu.edu.hk/eStudent/login.jsf, line 298: SyntaxError: identifier starts immediately after numeric literal
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: https://www38.polyu.edu.hk/eStudent/a4j/g/3_3_1.GAjquery.js.jsf, line 246: unreachable code after return statement
+1600329952708	Marionette	INFO	Stopped listening on port 52289
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
